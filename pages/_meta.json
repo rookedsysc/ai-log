@@ -3,6 +3,10 @@
     "title": "Application",
     "type": "page"
   },
+  "ai-theory": {
+    "title": "AI Theory",
+    "type": "page"
+  },
   "index": {
     "title": "About",
     "type": "page"
