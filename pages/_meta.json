@@ -1,7 +1,16 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": {
+    "title": "Introduction",
+    "type": "page"
+  },
+  "another": {
+    "title": "Another Page",
+    "type": "page"
+  },
+  "advanced": {
+    "title": "Advanced (A Folder)",
+    "type": "page"
+  },
   "about": {
     "title": "About",
     "type": "page"
@@ -11,5 +20,9 @@
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
+  },
+  "application": {
+    "title": "Application",
+    "type": "page"
   }
 }
