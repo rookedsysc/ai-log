@@ -3,6 +3,10 @@
     "title": "Application",
     "type": "page"
   },
+  "engineering": {
+    "title": "Engineering",
+    "type": "page"
+  },
   "ai-theory": {
     "title": "AI Theory",
     "type": "page"
